@@ -1,7 +1,7 @@
 # Logboek
 
 **Datum:** `[21/01/2026]`  
-**Studentnaam:** `[Safouan]`  
+**Studentnaam:** `[Safouan Kerkich]`  
 **Groepsnaam:** `[LukasGPT]`
 
 ---
